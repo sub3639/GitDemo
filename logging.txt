@@ -1,0 +1,28 @@
+Request method:	POST
+Request URI:	https/www.rahulshettyacademy.com/https/www.rahulshettyacademy.com/maps/api/place/add/json/https/www.rahulshettyacademy.com/https%2F%2Fwww.rahulshettyacademy.com/maps/api/place/add/https/www.rahulshettyacademy.com/https/www.rahulshettyacademy.com/maps/api/place/add/json/https/www.rahulshettyacademy.com/https%2F%2Fwww.rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "Den's moziac",
+    "phone_number": "+33170936366",
+    "address": "29, down street, cohen 09",
+    "website": "https//www.rahulshettyacademy.com",
+    "language": "English",
+    "location": {
+        "lan": -38.383494,
+        "lon": 33.427362
+    },
+    "types": [
+        "Shoe park",
+        "dog house"
+    ]
+}
